@@ -18,6 +18,11 @@
 	border-radius: 25px;
 
 }
+.tcenter{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 .top{
 	margin-top: 25px;
 }
@@ -93,9 +98,4 @@ body {
 
 #last{
 	margin-right: 5%;
-}
-.tcenter{
-	display:block;
-	margin-left: auto;
-	margin-right: auto; 
 }
