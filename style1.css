@@ -15,7 +15,7 @@
 }
 .cuvborder{
 
-	padding: 10px;
+	padding: 15px;
 	border-radius: 25px;
 	background-color: gold;
 }
@@ -37,7 +37,7 @@
 	background-color:#B0358B;
 }
 .pad10{
-	padding:10px;
+	padding:15px;
 }
 /*navbar*/
 body {
@@ -60,7 +60,7 @@ body {
   text-decoration: none;
   font-size: 17px;
   margin-right:2%;
-  font-family: 'Spicy Rice', cursive;
+  
   
 }
 
