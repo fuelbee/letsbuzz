@@ -94,3 +94,8 @@ body {
 #last{
 	margin-right: 5%;
 }
+.tcenter{
+	display:block;
+	margin-left: auto;
+	margin-right: auto; 
+}
